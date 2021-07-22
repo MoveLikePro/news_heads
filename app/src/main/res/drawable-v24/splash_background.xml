@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/colorPrimaryDark" />
+    <item
+        android:height="50sp"
+        android:width="50sp"
+        android:drawable="@drawable/splash_icon"
+        android:gravity="center">
+    </item>
+</layer-list>

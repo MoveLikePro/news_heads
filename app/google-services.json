@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911268002179",
+    "firebase_url": "https://newsheads-d9171.firebaseio.com",
+    "project_id": "newsheads-d9171",
+    "storage_bucket": "newsheads-d9171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911268002179:android:d4d70941b108c11f7bdeb6",
+        "android_client_info": {
+          "package_name": "com.enigmaticdevs.newsheads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911268002179-jcimec5q09ml5ua1d89mcsmr58dv2hn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ66VjYTOT_37-SWwaU5kYHz9VwqFQ9t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911268002179-jcimec5q09ml5ua1d89mcsmr58dv2hn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
